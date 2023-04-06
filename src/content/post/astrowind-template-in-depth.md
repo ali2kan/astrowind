@@ -1,11 +1,10 @@
 ---
 publishDate: '2023-01-08T00:00:00.000Z'
-title: AstroWind template in depth
+title: Butts and stuff
 description: Lorem ipsum dolor sit amet
-excerpt: >
-  Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula
-  a, semper fames lacus maecenas
-image: ~/assets/images/stickers.jpg
+excerpt: |
+  Lum cum dum dum
+image: /src/assets/images/colors.jpg
 category: Tutorials
 tags:
   - astro
