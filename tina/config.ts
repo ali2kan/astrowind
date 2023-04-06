@@ -34,7 +34,7 @@ export default defineConfig({
           },
           {
             type: "image",
-            name: "heroImg",
+            name: "image",
             label: "Hero Image",
           },
           {
@@ -44,7 +44,7 @@ export default defineConfig({
           },
           {
             type: "datetime",
-            name: "posted",
+            name: "publishDate",
             label: "Date Posted",
             required: true,
           },
