@@ -12,7 +12,7 @@ tags:
   - tailwind css
   - front-end
 canonical: 'https://astrowind.vercel.app/astrowind-template-in-depth'
-heroImg: /christopher-campbell-kFCdfLbu6zA-unsplash.jpg
+heroImg: /src/assets/images/alex-knight-DpPutJwgyW8-unsplash.jpg
 posted: '2023-04-06T07:00:00.000Z'
 ---
 
