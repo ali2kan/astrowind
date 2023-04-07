@@ -3,6 +3,10 @@ title: Test Post
 excerpt: |
   Seeing how this all works and what i can do with it
 posted: '2023-04-04T07:00:00.000Z'
+tags:
+ - japan
+ - street
+ - art
 image: ~/assets/images/japanstreet.jpg
 publishDate: '2023-04-13T07:00:00.000Z'
 ---
